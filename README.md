@@ -8,16 +8,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/mumal-solanki-2293a2215/" target="blank"><img align="center"
             src="img/icons8-linkedin-50.png"
-            alt="" height="60" width="70" /></a> <a href="https://www.instagram.com/mumalsolanki163/" target="blank"><img align="center"
+            alt="" height="60" width="70" /></a> 
+            <a href="https://www.instagram.com/mumalsolanki163/" target="blank"><img align="center"
             src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"
-            alt="simplified_learner" height="60" width="70" /></a> <a href="https://www.facebook.com/people/Mumal-Solanki/100070289694985/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"
-            alt="" height="60" width="70" /></a><a href="https://github.com/mumal885" target="blank"><img align="center"
+            alt="simplified_learner" height="60" width="70" /></a>
+            <a href="https://www.facebook.com/people/Mumal-Solanki/100070289694985/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"
+            alt="" height="60" width="70" /></a>
+            <a href="https://github.com/mumal885" target="blank"><img align="center"
             src="img/icons8-github-50.png"
-            alt="" height="60" width="70" /></a><a href="https://whatsapp.com/dl/" target="blank"><img align="center"
+            alt="" height="60" width="70" /></a>
+            <a href="https://whatsapp.com/dl/" target="blank"><img align="center"
             src="img/icons8-whatsapp-50.png"
-            alt="" height="60" width="70" /></a><a href="mumalsolanki163@gmail.com <mumalsolanki163@gmail.com>;" target="blank"><img align="center"
+            alt="" height="60" width="70" /></a>
+            <a href="mumalsolanki163@gmail.com <mumalsolanki163@gmail.com>;" target="blank"><img align="center"
             src="img/icons8-gmail-logo-50.png"
-            alt="" height="60" width="70" /></a><a href="https://goo.gl/maps/723wWU7u2wxcSiby9" target="blank"><img align="center"
+            alt="" height="60" width="70" /></a>
+            <a href="https://goo.gl/maps/723wWU7u2wxcSiby9" target="blank"><img align="center"
             src="https://img.icons8.com/bubbles/100/000000/map-marker.png"
             alt="" height="60" width="70" /></a></p>
 
