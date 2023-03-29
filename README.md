@@ -1,4 +1,4 @@
-![logo](https://github.com/mumal885/mumal885/blob/main/img/Untitled%20design.png)
+![logo]
 <h1 align="center">Hi 👋, I'm Mumal Solanki</h1>
 <h3 align="center">A passionate Student from India</h3>
 
