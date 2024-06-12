@@ -1,4 +1,6 @@
 
+<img  height="300" width="1000"
+    src="https://github.com/mumal885/mumal885/blob/main/img/Blue%20simple%20welcome%20YouTube%20banner%20.jpg">
 <h1 align="center">Hi 👋, I'm Mumal Solanki</h1>
 <h3 align="center">A passionate Student from India</h3>
 
